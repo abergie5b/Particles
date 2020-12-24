@@ -1,0 +1,13 @@
+*.pdf
+*.txt
+*.vsp
+*.Bat
+*.obj
+*.pdb
+*.log
+
+.vs
+GameParticles/Debug
+GameParticles/Release
+Debug
+Release
