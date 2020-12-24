@@ -6,5 +6,5 @@ Techniques:
 - SIMD for vector and matrix operations
 - custom memory allocator using placement_new
 - proxy pattern for matrix multiplication
-- custom rand() function
+- custom SSE rand() function
 - return value optimization
